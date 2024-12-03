@@ -2,7 +2,7 @@
 
 Python environment setting:
 
-```
+```zsh
 conda env create -f environment.yml
 conda activate hcr
 ```
